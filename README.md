@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amilleamille
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me ...
